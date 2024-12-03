@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" alt="Piano Image" width="150px">
+<img src="https://github.com/sommnee/sommnee/blob/main/pianobear.png" alt="Piano Image" width="150px">
 
 # 피아노배어
 **삼성 청년 SW 아카데미 11기 공통 프로젝트**
@@ -203,29 +203,94 @@ Infra: Ubuntu 20.04, Docker
 
 
 
-## 팀원 소개
+## 👥 팀원 소개 & 회고
 
-| 하정수     | 서근범       | 양종원     |
-| :-------------------------------------------------------: | :--------------------------------------------------------------------: | :-------------------------------------------------------: |
-| 팀장, FE | FE | BE, AI |
-| 팀장, FE | FE | BE, AI |
-
-| 이소민       | 김태성     | 박찬수       |
-| :--------------------------------------------------------------------: |:-------------------------------------------------------: | :--------------------------------------------------------------------: |
-| BE | FE | Infra, BE, FE |
-| BE | FE | Infra, BE, FE |
-
-
-## 회고
-하정수  
-
-서근범  
-
-양종원  
-
-이소민  
-
-김태성  
-
-박찬수
+<div>
+<table>
+    <tr>
+        <td align="center">
+        <a href="https://github.com/werocktoparty">
+          <img src="https://avatars.githubusercontent.com/werocktoparty" width="120px;" alt="werocktoparty">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Geunbeom">
+          <img src="https://avatars.githubusercontent.com/Geunbeom" width="120px;" alt="Geunbeom">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jongwonyang">
+          <img src="https://avatars.githubusercontent.com/jongwonyang" width="120px;" alt="jongwonyang">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sommnee">
+          <img src="https://avatars.githubusercontent.com/sommnee" width="120px;" alt="KBG1">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/taessong">
+          <img src="https://avatars.githubusercontent.com/taessong" width="120px;" alt="taessong">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/pcs1265">
+          <img src="https://avatars.githubusercontent.com/pcs1265" width="120px;" alt="pcs1265">
+        </a>
+      </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/werocktoparty">
+        하정수
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Geunbeom">
+        서근범
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jongwonyang">
+        양종원
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sommnee">
+        이소민
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/taessong">
+        김태성
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pcs1265">
+        박찬수
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        팀장, FE
+    </td>
+    <td align="center">
+      FE
+    </td>
+    <td align="center">
+      BE, AI
+    </td>
+    <td align="center">
+      BE
+    </td>
+    <td align="center">
+      FE
+    </td>
+    <td align="center">
+      Infra, BE, FE
+    </td>
+  </tr>
+</table>
+</div>
 
